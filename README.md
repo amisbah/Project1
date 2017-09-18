@@ -2,7 +2,7 @@
 
 The purpose of this code is to simulate a card game with a standard deck with 52 cards.
  
- -Documentation:
+Documentation:
  
 To run this program, you will need to install:
  -Git
